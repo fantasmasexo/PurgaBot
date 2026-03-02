@@ -1,9 +1,9 @@
 <h3 align="center">Bot skideado por fantasma</h3>
-<h1 align="center">⚡ Pikachu-Bot ⚡</h1>
+<h1 align="center">⚡ Purga-Bot ⚡</h1>
 
 <p align="center">
 <a aria-label="Chat on WhatsApp" href="https://wa.me/50581572130">
-  <img alt="Chat on WhatsApp" src="src/catalogo.jpg" />
+  <img alt="Chat on WhatsApp" src="https://files.catbox.moe/nzg33p.jpg" width="300" />
 </a>
 </p>
 
@@ -14,7 +14,11 @@
 
 ---
 
-### 🌟 DESARROLLADORES
+### 🌟 DESARROLLADORES Y CONTRIBUIDORES
+
+* **Fantasma**
+* [Deylin-eliac](https://github.com/deylin-eliac)
+
 <a href="https://github.com/deylin-eliac/Pikachu-bot/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=deylin-eliac/Pikachu-bot" /> 
 </a>
