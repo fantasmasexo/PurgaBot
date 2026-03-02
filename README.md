@@ -17,11 +17,7 @@
 ### 🌟 DESARROLLADORES Y CONTRIBUIDORES
 
 * **Fantasma**
-* [Deylin-eliac](https://github.com/deylin-eliac)
-
-<a href="https://github.com/deylin-eliac/Pikachu-bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=deylin-eliac/Pikachu-bot" /> 
-</a>
+* [fantasmin](https://github.com/fantasmasexo)
 
 ---
 
