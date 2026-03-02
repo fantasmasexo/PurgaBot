@@ -1,11 +1,13 @@
+<h3 align="center">Bot skideado por fantasma</h3>
 <h1 align="center">⚡ Pikachu-Bot ⚡</h1>
+
 <p align="center">
+<a aria-label="Chat on WhatsApp" href="https://wa.me/50581572130">
+  <img alt="Chat on WhatsApp" src="src/catalogo.jpg" />
+</a>
+</p>
 
-
-<a aria-label="Chat on WhatsApp" href="https://wa.me/50433191934"><img alt="Chat on WhatsApp" src="src/catalogo.jpg" />
-
-
-</p><p align="center">
+<p align="center">
   Bot de WhatsApp multifunción con comandos de música, stickers, juegos, administración ¡y mucho más!<br>
   Basado en <b>Baileys MD</b>.
 </p>
@@ -21,8 +23,11 @@
 
 # *Autor y desarrollador*
 
+<p align="center">
+  <b>Fantasma</b><br>
+  <a href="https://wa.me/50581572130">
+    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
-<a href="https://github.com/deylin-eliac">
-  <img src="https://github.com/deylin-eliac.png" width="130" height="130" alt="Deylin-eliac"/>
-</a>
-
+# PurgaBot
